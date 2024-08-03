@@ -188,3 +188,108 @@ span{
 .slider-image img{
     margin-top: 250px;
 }
+.btn3{
+    padding: 10px;
+    background: #3040C4;
+    width: 180px;
+    color: white;
+    border: none;
+    font-size: 16px;
+}
+.hiring-tab-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid #3040C4;
+    background: #3040C4;
+    width: 650px;
+    margin: 0 auto;
+    color: white;
+    padding: 10px;
+}
+.hiring-tab-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 0.1px solid gray;
+    background: white;
+    width: 650px;
+    margin: 0 auto;
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+}
+.hiring-tab-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 0.1px solid gray;
+    background: white;
+    width: 650px;
+    margin: 0 auto;
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+}
+.hiring-text{
+    text-align: center;
+}
+.hiring-tab{
+    margin-top: 30px;
+}
+.hiring{
+    margin-top: 50px;
+}
+.trial{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+margin-top: 50px;
+background: #F4F5F7;
+padding: 50px;
+}
+.trial-text input{
+    width: 250px;
+    border: 2px solid gainsboro;
+    color: black;
+    padding: 10px;
+}
+.spann{
+    margin-top: 20px;
+}
+.blue{
+    color: #3040C4;
+    text-decoration: underline;
+}
+.footer-nav{
+    display: flex;
+}
+.footer-end{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+}
+.footer-end-text{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 20px;
+}
+.footer-end-logo{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+    background: #FFFFFF;
+    border: 2px solid #FFFFFF;
+}
+.footer{
+    display: flex;
+    gap: 70px;
+    justify-content: space-around;
+    align-items: center;
+    background: #FFFFFF;
+    border: 2px solid #FFFFFF;
+}
